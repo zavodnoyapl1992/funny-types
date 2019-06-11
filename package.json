@@ -1,0 +1,24 @@
+{
+  "name": "funny-types",
+  "version": "0.0.1",
+  "description": "Types for fun",
+  "author": "Dovbenko Aleksey <zavodnoyapl@gmail.com",
+  "keywords": [
+    "typescript",
+    "types",
+    "customization",
+    "selectbox",
+    "custom",
+    "dropdown",
+    "validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavodnoyapl1992/funny-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zavodnoyapl1992/funny-types/issues"
+  },
+  "homepage": "https://github.com/zavodnoyapl1992/funny-types#readme",
+  "license": "MIT"
+}
