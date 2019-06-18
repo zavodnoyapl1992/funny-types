@@ -1,0 +1,13 @@
+{
+  "name": "funny-types-fixed-array-size",
+  "version": "0.0.1",
+  "description": "Fixed array length size type",
+  "author": "Dovbenko Aleksey <zavodnoyapl@gmail.com",
+  "keywords": [
+    "typescript",
+    "types",
+    "array",
+    "size"
+  ],
+  "repository": "zavodnoyapl1992/funny-types/fixed-array-size"
+}

@@ -1,6 +1,6 @@
 {
   "name": "funny-types",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Types for fun",
   "author": "Dovbenko Aleksey <zavodnoyapl@gmail.com",
   "keywords": [
@@ -20,5 +20,8 @@
     "url": "https://github.com/zavodnoyapl1992/funny-types/issues"
   },
   "homepage": "https://github.com/zavodnoyapl1992/funny-types#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
 }
