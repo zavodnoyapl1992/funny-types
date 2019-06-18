@@ -1,6 +1,6 @@
 {
   "name": "funny-types-custom-options",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Types for create custom select box with typescript validation for options",
   "author": "Dovbenko Aleksey <zavodnoyapl@gmail.com",
   "keywords": [
