@@ -1,6 +1,6 @@
 {
   "name": "funny-types-orm-interfaces",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "Base interfaces for create ORM for work with CRUD",
   "author": "Dovbenko Aleksey <zavodnoyapl@gmail.com",
   "keywords": [

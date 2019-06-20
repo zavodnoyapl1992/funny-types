@@ -13,13 +13,13 @@ It's has few simple methods for works with DTO or Entity object, for example:
 - setProperties - it's method for initialization NullObject, you'll can set you properties there
 - toSimpleObject - get original object without NullObject abstraction
 ```typescript
-Selectable<S extends object, T>
+Selectable<T>
 ```
 It's simple interface for select by search condition (S) and return NullObject or NullObject collection,
 its has one method
 - find - by criteria and optional params - order
 ```typescript
-Writable<S extends object, T>
+Writable<T>
 ```
 It's simple interface for write to your storage with methods:
 - bulkUpdate 
